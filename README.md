@@ -88,7 +88,6 @@ For any issues or feature requests, create an **Issue** on GitHub.
 
 ## 📞 **Contact**
 For any questions, reach out to:  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🐦 Twitter: [@your_handle](https://twitter.com/your_handle)  
+📧 Email: [jenaabhijeet16@gmail.com](mailto:jenaabhijeet16@gmail.com) 
 
 🚀 **Happy Coding!** 🎉

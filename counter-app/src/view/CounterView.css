@@ -1,0 +1,67 @@
+/* CounterView.css */
+.counter-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f4f4f9;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    text-align: center;
+    position: relative;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #007bff;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+button:active {
+    background-color: #1e7e34;
+}
+
+label {
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+
+input[type="checkbox"] {
+    margin-left: 10px;
+}
+
+.checkbox-container {
+    margin-top: 20px;
+}
+
+.rick-roll-gif {
+    position: absolute;
+    width: 750px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.left {
+    left: 10px;
+}
+
+.right {
+    right: 10px;
+}
